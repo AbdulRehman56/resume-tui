@@ -1,0 +1,4 @@
+# requirements.txt
+textual
+Pillow
+ascii_magic

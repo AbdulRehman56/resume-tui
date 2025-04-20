@@ -1,0 +1,45 @@
+{
+    "contact": {
+        "name": "Abdul Rehman Khan",
+        "email": "jashabbir12@gmail.com",
+        "phone": "(+92) 3010609689",
+        "address": "Your Address Here",
+        "dob": "06/04/2003",
+        "nationality": "Pakistani"
+    },
+    "experience": [
+        {
+            "title": "PROGRAMMER",
+            "company": "EDUBASE TECH (PVT) LTD",
+            "period": "04/2024 - CURRENT",
+            "location": "Lahore, Pakistan",
+            "details": [
+                "Designed...",
+                "Engineered...",
+                "..."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS CS",
+            "university": "GIFT University",
+            "period": "19/12/2021 - CURRENT",
+            "location": "Gujranwala, Pakistan",
+            "website": "https://www.gift.edu.pk/"
+        }
+    ],
+    "skills": {
+        "languages": [
+            "URDU",
+            "ENGLISH"
+        ],
+        "digital": [
+            "PHP",
+            "Laravel",
+            "JavaScript",
+            "React.js",
+            "..."
+        ]
+    }
+}
